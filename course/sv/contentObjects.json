@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Så navigerar du",
+    "displayTitle": "Så navigerar du",
+    "body": "",
+    "_classes": "nav-chapter",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_id": "628333ac0799d14fd8a688c2",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "1 Introduktion ",
+    "displayTitle": "1 Introduktion ",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "5 minuter",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "6298c7e1041c940c9a35e104",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "2 Allt syns inte utanpå",
+    "displayTitle": "2 Allt syns inte utanpå",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "8 minuter",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "6298dc716615b50cc996d901",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "3 Fördomar kan sätta stopp",
+    "displayTitle": "3 Fördomar kan sätta stopp",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "9 minuter",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "6298dc7a6615b50cc996df53",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "4 Normer på gott och ont",
+    "displayTitle": "4 Normer på gott och ont",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "9 minuter",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "6298dc866615b50cc996e5a3",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "5 Avslutning",
+    "displayTitle": "5 Avslutning",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "1 minut",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "6298dc950a8265658682dd29",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  }
+]

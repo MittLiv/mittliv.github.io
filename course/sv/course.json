@@ -1,0 +1,255 @@
+{
+  "title": "Mångfald och inkludering (Logga MItt Liv)",
+  "displayTitle": "Mångfald och inkludering ",
+  "body": "<p>Det h&auml;r &auml;r en utbildning om m&aring;ngfald och inkludering och om varf&ouml;r det &auml;r viktigt p&aring; v&aring;r arbetsplats.</p><p>Du som g&aring;r den h&auml;r utbildningen kommer att f&aring; l&auml;ra dig vad m&aring;ngfald och inkludering &auml;r och f&aring; tips om hur du kan t&auml;nka och agera i olika situationer.</p><p>M&aring;ngfald och inkludering &auml;r allas ansvar och d&auml;rf&ouml;r &auml;r den h&auml;r utbildningen till f&ouml;r alla som jobbar hos oss.</p><p><a href=\"#/628333ac0799d14fd8a688c2\" title=\"Så navigerar du\">S&aring; navigerar du i utbildningen</a></p>",
+  "description": "",
+  "_latestTrackingId": 52,
+  "_language": "sv",
+  "_multilanguage": [],
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Svara",
+      "ariaLabel": "Svara"
+    },
+    "_reset": {
+      "buttonText": "Försök igen!",
+      "ariaLabel": "Försök igen!"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Visa rätt svar",
+      "ariaLabel": "Visa rätt svar"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Visa mitt svar",
+      "ariaLabel": "Visa mitt svar"
+    },
+    "_showFeedback": {
+      "buttonText": "Visa återkoppling",
+      "ariaLabel": "Visa återkoppling"
+    },
+    "remainingAttemptsText": "försök kvar",
+    "remainingAttemptText": "försök kvar",
+    "disabledAriaLabel": " Denna knapp är inaktiverad för tillfället."
+  },
+  "_classes": "",
+  "_lockType": null,
+  "_id": "course",
+  "_type": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Aktivera tabbläge",
+      "_accessibilityToggleTextOff": "Inaktivera tabbläge",
+      "skipNavigationText": "Hoppa till huvudinnehåll",
+      "_accessibilityInstructions": {
+        "touch": "_",
+        "notouch": "_",
+        "ipad": "_"
+      },
+      "_ariaLabels": {
+        "navigation": "Navigationsfält ",
+        "skipNavigation": "Hoppa till huvudinnehåll",
+        "home": "Hem",
+        "menuLoaded": "Huvudmeny laddad",
+        "menu": "Huvudmeny",
+        "menuItem": "Kapitel",
+        "menuViewButton": "Starta kapitel",
+        "page": "Kapitel",
+        "pageLoaded": "Kapitel laddat",
+        "previous": "Tillbaka",
+        "navigationBack": "Gå tillbaka(-knapp)",
+        "navigationDrawer": "Sökfunktion och resurser i utbildning",
+        "closeResources": "Stäng sökfunktion och resurser",
+        "drawerBack": "Tillbaka",
+        "drawer": "",
+        "closeDrawer": "Stäng",
+        "closePopup": "Stäng",
+        "next": "Nästa",
+        "done": "Färdigt",
+        "complete": "Moment genomfört",
+        "incomplete": "Moment ej genomfört",
+        "correct": "Rätt",
+        "incorrect": "Fel",
+        "locked": "Låst",
+        "accessibilityToggleButton": "Klicka här för att använda tangentbordsnavigering i utbildningsdelen. ",
+        "feedbackPopUp": "Modalt fönster öppnat",
+        "visited": "Besökt",
+        "menuBack": "Hem",
+        "menuIndicatorHeading": "Kapitelrubrik",
+        "exit": "Avsluta"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": " "
+      },
+      "_graphic": {
+        "ariaRegion": " "
+      },
+      "_slider": {
+        "ariaRegion": "Nytt moment. ",
+        "ariaCorrectAnswer": "Rätt svar är {{{correctAnswer}}}.",
+        "ariaCorrectAnswerRange": "Det rätta svaret är {{{bottom}}} till {{{top}}}.",
+        "ariaUserAnswer": "Ditt svar var {{{userAnswer}}}.",
+        "labelStart": "Start",
+        "labelEnd": "Slut"
+      },
+      "_mcq": {
+        "ariaRegion": "Nytt moment. ",
+        "ariaCorrectAnswer": "Rätt svar är {{{correctAnswer}}}.",
+        "ariaCorrectAnswers": "De rätta svaren är {{{correctAnswer}}}.",
+        "ariaUserAnswer": "Ditt svar var {{{userAnswer}}}.",
+        "ariaUserAnswers": "Dina svar var {{{userAnswer}}}."
+      },
+      "_media": {
+        "ariaRegion": "Mediaspelare. ",
+        "skipToTranscript": "Transkript. ",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_branching": {
+        "ariaRegion": "Nytt moment: Användarinstruktioner: Använd pil-tangenterna för att ta dig genom scenariot."
+      },
+      "_accordion": {
+        "ariaRegion": "Nytt moment. "
+      },
+      "_narrative": {
+        "ariaRegion": "Nytt moment. ",
+        "previous": "Föregående.",
+        "next": "Nästa. "
+      },
+      "_flipcard": {
+        "ariaRegion": "Nytt moment. "
+      }
+    },
+    "_extensions": {
+      "_confirmExit": {
+        "confirmExitButtonLabel": "Stäng ner utbildningen. ",
+        "confirmExitTitle": "Varning",
+        "confirmExitBody": "Är du säker på att du vill stänga och avsluta utbildningen?",
+        "confirmExitYes": "Ja",
+        "confirmExitNo": "Nej"
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Moment i kapitlet. ",
+        "pageLevelProgressIndicatorBar": "Öppna kapitelmeny, knapp. Du har genomfört {{percentageComplete}}%.",
+        "pageLevelProgressMenuBar": "Du har genomfört {{percentageComplete}}%.",
+        "pageLevelProgressEnd": "Du har kommit till slutet på listan över moment i kapitlet.",
+        "optionalContent": "Valfritt genomförande.",
+        "_navOrder": ""
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Meny",
+        "durationLabel": "Tidsåtgång:",
+        "menuItem": "Kapitelknapp",
+        "menuEnd": "Du har kommit till slutet av menyn. "
+      }
+    }
+  },
+  "metadata": {
+    "parentCourseIds": [
+      "5af987c16ff73a72c3606baf",
+      "5c0642bc7b5b6a44ef47342a",
+      "5c416c8a06ff09770e5c6cc1",
+      "5c4964c2df340b644b4049ea",
+      "5c4e9d4307f80c29fbe6779e",
+      "5cf8212d7dec6807ac113dac",
+      "5d721fd2b2d69a2a459d40d9",
+      "5d7b756cd3c1b909cd989068",
+      "5d7f8490d3c1b909cd98917a",
+      "5d9726a2916e4c472cbf3d7c",
+      "5d9f4182b5776574de49a5c4",
+      "61387f40c1cefc4b797bfbff",
+      "615d88ff1e1b8108cb9e4f7a",
+      "616430303663cd08d2f52174",
+      "61f28664e0f7e631a62262d1",
+      "621dcde36071405120dd284b"
+    ]
+  },
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Klicka på ett kapitel för att börja."
+    }
+  },
+  "_search": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "_matchOn": {
+      "_contentWordBeginsPhraseWord": false,
+      "_contentWordContainsPhraseWord": false,
+      "_contentWordEqualsPhraseWord": true,
+      "_phraseWordBeginsContentWord": true
+    },
+    "_previewWords": 10,
+    "_previewCharacters": 30,
+    "_showFoundWords": true,
+    "_showHighlights": true,
+    "_ignoreWords": "article,block,component,title",
+    "_minimumWordLength": 2,
+    "_frequencyImportance": 5,
+    "title": "Sök",
+    "description": "",
+    "placeholder": "Skriv in det du vill söka efter",
+    "noResultsMessage": "Inga träffar",
+    "awaitingResultsMessage": "Söker efter träffar …"
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": true,
+    "nextButtonText": "Nästa",
+    "prevButtonText": "Föregående",
+    "homeButtonText": "Hem",
+    "upButtonText": "Upp",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": true,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_spoor": {
+    "_messages": null
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Bokmärke",
+    "body": "Vill du fortsätta där du avslutade senast?",
+    "_buttons": {
+      "yes": "Ja",
+      "no": "Nej"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  }
+}

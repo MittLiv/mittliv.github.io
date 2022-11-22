@@ -1,0 +1,4004 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Kapitelmeny",
+    "displayTitle": "Kapitelmeny",
+    "body": "<p>I ett kapitel navigerar du ner&aring;t f&ouml;r att komma vidare.</p><p>Om du vill f&aring; en &ouml;verblick &ouml;ver kapitlet kan du alltid klicka p&aring; kapitelmenyn (knappen med tre streck) uppe i navigationsf&auml;ltet. D&aring; f&auml;lls en meny ner som visar vilka moment du har slutf&ouml;rt och vilka du har kvar att g&ouml;ra.</p><p>Du kan ocks&aring; hoppa direkt till ett moment genom att klicka p&aring; det i kapitelmenyn.</p>",
+    "_id": "628333ad0799d14fd8a689e3",
+    "_parentId": "628333ac0799d14fd8a68954",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Huvudmeny",
+    "displayTitle": "Huvudmeny",
+    "body": "<p>Utbildningen best&aring;r av flera kapitel som du n&aring;r via huvudmenyn. Vi rekommenderar att du g&ouml;r dem i tur och ordning.</p><p>I huvudmenyn f&aring;r du ocks&aring; information om hur l&aring;ngt du kommit i varje kapitel och vilka kapitel du har slutf&ouml;rt.</p><p>Utbildningen &auml;r ca 30 min l&aring;ng. Det g&aring;r bra att g&ouml;ra hela utbildningen p&aring; en g&aring;ng, eller ta ett kapitel i taget om det passar b&auml;ttre. Om du delar upp det per kapitel m&aring;ste du g&ouml;ra klart utbildningen inom en vecka fr&aring;n det att du b&ouml;rjar.</p>",
+    "_id": "628333ad0799d14fd8a689e5",
+    "_parentId": "628333ac0799d14fd8a6895a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628333ad0799d14fd8a689e7",
+    "_parentId": "628333ac0799d14fd8a68954",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/612f6b5eb8c9c14b6eadf9d5.png",
+      "small": "course/sv/assets/612f6b5eb8c9c14b6eadf9d5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628333ad0799d14fd8a689eb",
+    "_parentId": "628333ac0799d14fd8a68952",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/612f6b5eb8c9c14b6eadf9d6.png",
+      "small": "course/sv/assets/612f6b5eb8c9c14b6eadf9d6.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Slutfört kapitel",
+    "displayTitle": "Slutfört kapitel",
+    "body": "<p>Du g&aring;r vidare i utbildningen genom att klicka p&aring; N&auml;sta (h&ouml;gerpilen) l&auml;ngst ner p&aring; sidan. D&aring; kommer du till ett nytt kapitel.</p><p>Du kan ocks&aring; klicka p&aring; Hem (husknappen/loggan) f&ouml;r att komma tillbaka till huvudmenyn och d&auml;r v&auml;lja ett nytt kapitel.</p>",
+    "_id": "628333ad0799d14fd8a689ef",
+    "_parentId": "628333ac0799d14fd8a68952",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628333ad0799d14fd8a689f1",
+    "_parentId": "628333ac0799d14fd8a68956",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Sökfunktionen",
+    "displayTitle": "Sökfunktionen",
+    "body": "<p>Klickar du p&aring; s&ouml;kfunktionen i navigationsf&auml;ltet kan du fritexts&ouml;ka efter information i utbildningen.</p>",
+    "_id": "628333ad0799d14fd8a68a7d",
+    "_parentId": "628333ad0799d14fd8a689ca",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628333ad0799d14fd8a68a7f",
+    "_parentId": "628333ad0799d14fd8a689ca",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/612f6b5e6636df2e584ffb76.png",
+      "small": "course/sv/assets/612f6b5e6636df2e584ffb76.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Visste du att…?",
+    "displayTitle": "Visste du att…?",
+    "body": "<p>M&aring;ngfald och inkludering p&aring; arbetsplatsen &auml;r bra f&ouml;r alla. B&aring;de individen, gruppen och verksamheten har nytta av det. Det finns m&aring;nga f&ouml;rdelar med m&aring;ngfald och inkludering, h&auml;r &auml;r n&aring;gra exempel:</p><ul><li>Vi trivs b&auml;ttre p&aring; jobbet.</li><li>Vi &ouml;kar kreativiteten och t&auml;nker nytt.</li><li>Vi fattar b&auml;ttre beslut i gruppen.</li><li>Vi f&ouml;rst&aring;r v&aring;ra olika kunder b&auml;ttre.</li><li>Vi n&aring;r ut till fler vid rekrytering.</li></ul>",
+    "_id": "6298c8699808dc658c6f57bb",
+    "_parentId": "6298c8610a8265658682a88f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Några viktiga begrepp",
+    "displayTitle": "Några viktiga begrepp",
+    "body": "<p>Nu ska du f&aring; l&auml;ra dig n&aring;gra viktiga begrepp att ta med dig genom kursen.</p>",
+    "_id": "6298ca496615b50cc996a808",
+    "_parentId": "6298ca416615b50cc996a7d8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på bilderna för att lära dig vad de olika begreppen betyder.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Regnbåge. Klicka för att vända. ",
+          "src": "course/sv/assets/62b96cd2c0440812be4ee0cc.png"
+        },
+        "backTitle": "Mångfald",
+        "backBody": "<p>M&aring;ngfald betyder att m&auml;nniskor &auml;r olika i en grupp. N&aring;gra exempel kan vara olika k&ouml;n, etnicitet, trosuppfattning, funktionsneds&auml;ttning, sexuell l&auml;ggning, &aring;lder, k&ouml;nsidentitet, erfarenheter, utbildningsbakgrund och spr&aring;kkunskaper.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Hjärta. Klicka för att vända. ",
+          "src": "course/sv/assets/62b96cd2d4132512c4acc311.png"
+        },
+        "backTitle": "Inkludering",
+        "backBody": "<p>P&aring; en inkluderande arbetsplats kan alla k&auml;nna att de h&ouml;r till och att de &auml;r en del av gemenskapen. Inkludering betyder att vi som medarbetare eller ledare v&auml;rdes&auml;tter varandras olikheter.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Tre personer, varav en är lite utanför. Klicka för att vända. ",
+          "src": "course/sv/assets/62b96cd2f9e24614b64862d3.png"
+        },
+        "backTitle": "Utanförskap",
+        "backBody": "<p>Utanf&ouml;rskap betyder att vi k&auml;nner oss ensamma och utanf&ouml;r gruppen och att vi kanske inte v&aring;gar vara oss sj&auml;lva p&aring; jobbet. Utanf&ouml;rskap g&ouml;r skada b&aring;de p&aring; individniv&aring; och f&ouml;r gruppen.</p>"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Kan du vara dig själv på jobbet?",
+    "displayTitle": "Kan du vara dig själv på jobbet?",
+    "body": "<p>Det kan finnas olika anledningar till att vi inte vill eller v&aring;gar vara oss sj&auml;lva p&aring; jobbet.</p><p>H&auml;r f&aring;r du tr&auml;ffa sex olika personer som ber&auml;ttar om saker de har upplevt. Kanske har du sj&auml;lv varit med om n&aring;got liknande? Fundera lite p&aring; hur du skulle vilja att det var i st&auml;llet!</p>",
+    "_id": "6298ca900a8265658682ad30",
+    "_parentId": "6298ca889808dc658c6f5a9c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på nästa eller föregående (fram- och tillbakapilen) för att ta del av informationen.",
+    "mobileInstruction": "Klicka på plustecknet för att få fram mer information. Fortsätt sedan genom att klicka på högerpilen och plustecknet igen.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ahmed",
+        "_ariaLevel": 0,
+        "body": "<p>Jag &auml;r s&aring; tr&ouml;tt p&aring; att folk tror att jag &auml;r macho bara f&ouml;r att jag &auml;r man och bor i f&ouml;rorten. Mitt st&ouml;rsta intresse &auml;r matlagning men det &auml;r n&auml;stan aldrig n&aring;gon som bjuder in mig i s&aring;dana samtal.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a306349ea727658691168f.png",
+          "alt": "Porträtt på Ahmed i kontorsmiljö.",
+          "attribution": ""
+        },
+        "strapline": "Ahmed"
+      },
+      {
+        "title": "José",
+        "_ariaLevel": 0,
+        "body": "<p>Jag &auml;r troende, men skulle inte ber&auml;tta det p&aring; jobbet. Min chef s&auml;ger ofta att v&auml;rlden vore b&auml;ttre utan religioner. Jag k&auml;nner mig utpekad, fast de inte ens vet om att jag &auml;r religi&ouml;s.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a3068e68db890cc916bae7.png",
+          "alt": "Porträtt på José.",
+          "attribution": ""
+        },
+        "strapline": "José"
+      },
+      {
+        "title": "Alicia",
+        "_ariaLevel": 0,
+        "body": "<p>Jag har barn med en annan kvinna, och jag vet aldrig vad folk ska tycka och t&auml;nka. Jag drar mig f&ouml;r att ber&auml;tta f&ouml;r nya kollegor, t&auml;nk om de reagerar konstigt och sen m&aring;ste vi jobba ihop.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a304aa76d2060c9a649273.png",
+          "alt": "Porträtt på Alicia.",
+          "attribution": ""
+        },
+        "strapline": "Alicia"
+      },
+      {
+        "title": "Sally",
+        "_ariaLevel": 0,
+        "body": "<p>Jag vet inte hur m&aring;nga g&aring;nger jag f&aring;tt fr&aring;gan:</p><blockquote><p>Var kommer du ifr&aring;n, egentligen?</p></blockquote><p>Jag &auml;r f&ouml;dd och uppvuxen i V&auml;ster&aring;s, men de ger sig liksom inte f&ouml;rr&auml;n jag v&auml;nt ut och in p&aring; halva sl&auml;ktens bakgrund.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a305c89ea727658691168e.png",
+          "alt": "Porträtt på Sally.",
+          "attribution": ""
+        },
+        "strapline": "Sally"
+      },
+      {
+        "title": "Helena",
+        "_ariaLevel": 0,
+        "body": "<p>Jag har jobbat h&auml;r i 27 &aring;r, men det k&auml;nns som att ingen vill h&ouml;ra vad jag har att s&auml;ga l&auml;ngre. Bara f&ouml;r att jag blivit &auml;ldre s&aring; tror folk att jag inte kan komma med n&aring;gra nya id&eacute;er.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a305f009df4f658cf2ab8c.png",
+          "alt": "Porträtt på Helena.",
+          "attribution": ""
+        },
+        "strapline": "Helena"
+      },
+      {
+        "title": "Carl",
+        "_ariaLevel": 0,
+        "body": "<p>Jag h&ouml;r v&auml;ldigt d&aring;ligt. Vissa kollegor verkar tro att det p&aring;verkar min kompetens. Jag blir inte tillfr&aring;gad lika ofta som andra, fast jag &auml;r en av de som jobbat l&auml;ngst h&auml;r.</p>",
+        "_graphic": {
+          "src": "course/sv/assets/62a3061576d2060c9a649274.png",
+          "alt": "Porträtt på Carl.",
+          "attribution": ""
+        },
+        "strapline": "Carl"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Alicia ",
+    "displayTitle": "",
+    "body": "<p><strong>Namn</strong>: Alicia Gonzales</p><p><strong>&Aring;lder:</strong> 41</p><p><strong>Jobb:</strong> Vikarierar p&aring; ett lager</p><p><strong>Familj:</strong> Sambo med Stina, tv&aring; barn och hundar</p><p><strong>Bor:</strong> Hyresr&auml;tt i f&ouml;rorten</p><p><strong>Annat om mig:</strong> Jag &auml;lskar skog och natur &ndash; det ger lugn och ro. Hela familjen m&aring;r bra av det!</p>",
+    "_id": "6298dc736615b50cc996dcc0",
+    "_parentId": "6298dc726615b50cc996daef",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Faktaruta (EV INTE SYNLIG RUBRIK)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc736615b50cc996dcce",
+    "_parentId": "6298dc726615b50cc996daef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Porträtt på Alicia.",
+      "large": "course/sv/assets/62a309dd9ea7276586911691.png",
+      "small": "course/sv/assets/62a309dd9ea7276586911691.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component ",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Vi är alla olika (FILM)",
+    "displayTitle": "Vi är alla olika",
+    "body": "<span class=\"screen-reader-text\">Den här filmen har ingen syntolkning. Efter filmen finns textalternativ för dig som föredrar att läsa.</span>",
+    "_id": "6298dc736615b50cc996dcdc",
+    "_parentId": "6298dc726615b50cc996dafc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på playknappen för att starta filmen. Om du vill ta del av textalternativet klicka på \"Läs i stället för att titta\"-knappen.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725293225/fd204b65a7",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Läs i stället för att titta",
+      "inlineTranscriptCloseButton": "Stäng",
+      "inlineTranscriptBody": "<p><strong>SCEN 1</strong></p><p><i>Alicia och en kollega kommer in i fikarummet p&aring; lagret. Alicia ser tr&ouml;tt ut och tar sig f&ouml;r huvudet.</i></p><p><strong>Kollega 1:</strong> Men oj, hur &auml;r det? M&aring;r du inte bra?</p><p><strong>Alicia:</strong> &Auml;h, jag blir s&aring; tr&ouml;tt bara av att &auml;ta i matsalen. Det &auml;r s&aring; mycket ljud och m&auml;nniskor.</p><p><strong>Kollega 1: </strong>Tycker du? Det t&auml;nkte inte jag p&aring;.</p><p><strong>Alicia:</strong> (Ser lite besv&auml;rad ut.) Jag kanske inte har sagt det, men jag har sv&aring;rt n&auml;r det blir s&aring; mycket intryck p&aring; en g&aring;ng. Jag, hmm, jag har autism&hellip;</p><p><strong>Kollega 1:</strong> Va? Har du?? Det hade jag aldrig trott. Du &auml;r ju inte s&aring; d&auml;r &hellip; ja du vet &hellip; (tystnar)</p><p><strong>Alicia:</strong> (tittar ned i golvet) Mmm&hellip; jag har ju l&auml;rt mig att inte, hmm, visa det s&aring; mycket&hellip;</p><p><strong>SCEN 2</strong></p><p><i>Alicia och kollegan sitter och dricker kaffe i fikarummet. En annan kollega kommer och s&auml;tter sig vid samma bord.</i></p><p><strong>Kollega 2:</strong> Har ni h&ouml;rt att vi f&aring;r en praktikant n&auml;sta vecka?&nbsp;</p><p>De andra skakar p&aring; huvudet.</p><p><strong>Kollega 2:</strong> Jo, fr&aring;n n&aring;t gymnasium. Chefen har fr&aring;gat om jag vill va handledare (l&aring;ter tveksam)</p><p><strong>Kollega 1</strong> Ja, men det kan v&auml;l va kul. Jag var handledare f&ouml;rra &aring;ret.</p><p><strong>Kollega 2:</strong> Jo, visst, hade det v&auml;l kunnat va. Men det &auml;r fr&aring;n n&aring;t specialgymnasium f&ouml;r folk med typ damp. Hur ska det g&aring;, jag kanske inte ens fattar vad ungen s&auml;ger? (l&aring;ter som ett elakt sk&auml;mt)</p><p>Kollega 1 tittar p&aring; Alicia som tittar ned i sin kaffekopp.</p><p>&nbsp;</p>",
+      "transcriptLinkButton": "Läs istället för att titta",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "Vad hände?",
+    "body": "<p>Personer med funktionsneds&auml;ttning hamnar ofta i kl&auml;m. Alicias kollega f&auml;llde en kommentar som gjorde de andra i rummet ledsna och illa till mods. Vi beh&ouml;ver t&auml;nka p&aring; hur andra kan uppfatta det vi s&auml;ger, s&aring; att vi inte g&ouml;r illa n&aring;gon i ett f&ouml;rs&ouml;k att framst&aring; som rolig.</p><p>Ibland n&auml;r vi blir utsatta f&ouml;r elaka sk&auml;mt eller kommentarer f&aring;r vi h&ouml;ra att &rdquo;Lite f&aring;r du v&auml;l t&aring;la!&rdquo;. Men ingen av oss ska beh&ouml;va t&aring;la s&aring;dant som g&ouml;r oss illa.</p>",
+    "_id": "6298dc736615b50cc996dcea",
+    "_parentId": "6298dc726615b50cc996db09",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc736615b50cc996dcf8",
+    "_parentId": "6298dc726615b50cc996db09",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Pratbubbla med symboler för fula ord eller nedsättande uttryck.",
+      "large": "course/sv/assets/62a752f876d2060c9a6492a2.png",
+      "small": "course/sv/assets/62a752f876d2060c9a6492a2.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Personer med funktionsnedsättning",
+    "displayTitle": "Personer med funktionsnedsättning",
+    "body": "<p>Hur stor del av Sveriges befolkning har en funktionsneds&auml;ttning, tror du?</p>",
+    "_id": "6298dc736615b50cc996dd06",
+    "_parentId": "6298dc726615b50cc996db16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Dra reglaget tills det visar den andel du tror har en funktionsnedsättning.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 10,
+    "_correctAnswer": "30",
+    "_correctRange": {
+      "_bottom": 0,
+      "_top": 0
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Du har r&auml;tt!</p><p>30% av alla i Sverige har n&aring;gon funktionsneds&auml;ttning. Av alla i arbetsf&ouml;r &aring;lder &auml;r siffran 16%. De flesta har osynliga funktionsneds&auml;ttningar, till exempel autism, ADHD, dyslexi, h&ouml;rselneds&auml;ttningar och sjukdomar.</p><p>(K&auml;lla: SCB 2020 och 2021)</p>",
+      "_incorrect": {
+        "final": "<p>Bra gissning men inte helt r&auml;tt.</p><p>30% av alla i Sverige har n&aring;gon funktionsneds&auml;ttning. Av alla i arbetsf&ouml;r &aring;lder &auml;r siffran 16%. De flesta har osynliga funktionsneds&auml;ttningar, till exempel autism, ADHD, dyslexi, h&ouml;rselneds&auml;ttningar och sjukdomar.</p><p>(K&auml;lla: SCB 2020 och 2021)</p>",
+        "notFinal": "<p>Bra gissning men inte helt r&auml;tt.</p><p>F&ouml;rs&ouml;k igen.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Människor är som isberg",
+    "displayTitle": "Människor är som isberg",
+    "body": "<p>En m&auml;nniska &auml;r som ett isberg. Det &auml;r ganska lite som m&auml;rks och syns och mycket som d&ouml;ljer sig under ytan. Vi noterar ofta s&aring;dant som h&aring;rf&auml;rg och dialekt. Men vi ser inte lika ofta s&aring;dant som trosuppfattning, kompetens eller psykisk oh&auml;lsa.</p><p>B&aring;de det vi ser och det vi inte ser p&aring;verkar hur en person &auml;r och beter sig.</p>",
+    "_id": "6298dc736615b50cc996dd14",
+    "_parentId": "6298dc726615b50cc996db23",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Hur ser det ut hos oss?",
+    "displayTitle": "Hur ser det ut hos oss?",
+    "body": "<p>Hur tror du att det ser ut p&aring; din arbetsplats?</p><p>Fundera g&auml;rna kring isberget ihop med dina kollegor p&aring; n&auml;sta fika. Vad har ni f&ouml;r likheter och olikheter? Vad syns och vad syns inte?</p>",
+    "_id": "6298dc736615b50cc996dd30",
+    "_parentId": "6298dc726615b50cc996db30",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Hur ser det ut hos oss?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc736615b50cc996dd3e",
+    "_parentId": "6298dc726615b50cc996db30",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Frågetecken.",
+      "large": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p>Vad kan du som kollega s&auml;ga och g&ouml;ra f&ouml;r att vara inkluderande?</p>",
+    "_id": "6298dc736615b50cc996dd4c",
+    "_parentId": "6298dc726615b50cc996db3d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på bilderna för att få tips på hur du kan agera i olika situationer.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Pratbubbla med frågetecken.",
+          "src": "course/sv/assets/62a7559f68db890cc916bb2e.png"
+        },
+        "backTitle": "Våga fråga!",
+        "backBody": "<ul><li>Fr&aring;ga i st&auml;llet f&ouml;r att anta att du vet hur en person t&auml;nker och fungerar.</li><li>Fr&aring;ga alla &ndash; l&auml;mna ingen utanf&ouml;r!</li><li>Kom ih&aring;g att det &auml;r b&auml;ttre att tala med varandra &auml;n om varandra.</li></ul>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Öga.",
+          "src": "course/sv/assets/62a75ca89ea72765869116c7.png"
+        },
+        "backTitle": "Ögonkontakt eller inte?",
+        "backBody": "<p>M&aring;nga tycker att det &auml;r jobbigt att ha &ouml;gonkontakt. Om den du pratar med verkar h&auml;nga med i samtalet &auml;ven om hen tittar bort &ndash; forts&auml;tt prata. Ni kommer att ha ett bra samtal &auml;ven utan &ouml;gonkontakt.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Checklista och penna.",
+          "src": "course/sv/assets/62a84d9b76d2060c9a6492b1.png"
+        },
+        "backTitle": "Var tydlig!",
+        "backBody": "<ul><li>F&ouml;r att vara tydlig kan du t&auml;nka p&aring; att svara p&aring; fr&aring;gorna om n&auml;r, var, vem, hur och varf&ouml;r.</li><li>Undvik &ouml;verraskningar &ndash; det &auml;r m&aring;nga som inte tycker om det.</li></ul>"
+      }
+    ]
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Alla vågar inte berätta om sin partner",
+    "displayTitle": "Alla vågar inte berätta om sin partner",
+    "body": "<p>Hur stor andel bi-eller homosexuella tror du d&ouml;ljer sin l&auml;ggning p&aring; jobbet?</p>",
+    "_id": "6298dc736615b50cc996dd68",
+    "_parentId": "6298dc726615b50cc996db57",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Dra reglaget tills det visar den andel bi-eller homosexuella du tror döljer sin läggning på jobbet.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 10,
+    "_correctAnswer": "50",
+    "_correctRange": {
+      "_bottom": 0,
+      "_top": 0
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Du har r&auml;tt!</p><p>Enligt en unders&ouml;kning d&ouml;ljer h&auml;lften av alla bi-eller homosexuella sin l&auml;ggning p&aring; jobbet.</p><p>(K&auml;lla: SCB 2020 och 2021)</p>",
+      "_incorrect": {
+        "final": "<p>Bra gissning men inte helt r&auml;tt.</p><p>Enligt en unders&ouml;kning d&ouml;ljer h&auml;lften av alla bi-eller homosexuella sin l&auml;ggning p&aring; jobbet.</p><p>(K&auml;lla: SCB 2020 och 2021)</p>",
+        "notFinal": "<p>Bra gissning men inte helt r&auml;tt.</p><p>F&ouml;rs&ouml;k igen.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Ahmed",
+    "displayTitle": "",
+    "body": "<p><strong>Namn:</strong> Ahmed Ablah</p><p><strong>&Aring;lder:</strong> 28</p><p><strong>Jobb:</strong> Ekonomiassistent p&aring; kontor</p><p><strong>Familj:</strong> Kom till Sverige f&ouml;r ett par &aring;r sedan</p><p><strong>Bor:</strong> Delar l&auml;genhet i f&ouml;rorten med kompis fr&aring;n hemlandet</p><p><strong>Annat om mig:</strong> Examen i f&ouml;retagsekonomi fr&aring;n hemlandet</p>",
+    "_id": "6298dc7c6615b50cc996e3d6",
+    "_parentId": "6298dc7c6615b50cc996e1b6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Faktaruta (EV INTE SYNLIG RUBRIK)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc7c6615b50cc996e3e4",
+    "_parentId": "6298dc7c6615b50cc996e1b6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Porträtt på Ahmed.",
+      "large": "course/sv/assets/62a306349ea727658691168f.png",
+      "small": "course/sv/assets/62a306349ea727658691168f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Låt inte dina fördomar styra (FILM)",
+    "displayTitle": "Låt inte dina fördomar styra",
+    "body": "<span class=\"screen-reader-text\">Den här filmen har ingen syntolkning. Efter filmen finns textalternativ för dig som föredrar att läsa.</span>",
+    "_id": "6298dc7c6615b50cc996e3f2",
+    "_parentId": "6298dc7c6615b50cc996e1c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på playknappen för att starta filmen. Om du vill ta del av textalternativet klicka på \"Läs istället för att titta\"-knappen.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725289877/a5b6b3d1bf",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Läs i stället för att titta",
+      "inlineTranscriptCloseButton": "Stäng",
+      "inlineTranscriptBody": "<p><i></i></p><p><i>P&aring; ett kontor. I en korridor g&aring;r Ahmed. Hans chef kommer bakifr&aring;n och g&aring;r ikapp honom. Knackar Ahmed p&aring; axeln. </i></p><p><strong>Chefen:</strong> Men hej, Ahmed. Vad fint att se dig.</p><p><strong>Ahmed:</strong> Hej.&nbsp;</p><p><strong>Chefen: </strong>Vad bra att jag sprang p&aring; dig. Jag ville kolla lite med dig, hur trivs du hos oss nu? Det har ju g&aring;tt n&aring;n m&aring;nad sen du b&ouml;rjade.</p><p><strong>Ahmed:</strong> Tack. Jag trivs bra. J&auml;ttebra. Jag &auml;r glad att ha f&aring;tt jobb h&auml;r. Men &hellip;</p><p><strong>Chefen:</strong> Ja, s&auml;g vad du t&auml;nker p&aring;. Mig kan du prata med, vet du!</p><p><strong>Ahmed:</strong> (lite tveksamt) Jo det var en sak &hellip; Jag skulle vilja f&aring; va med p&aring; n&aring;t kundm&ouml;te. De andra ekonomiassistenterna &auml;r ju det och jag vill ocks&aring; prova.</p><p><strong>Chefen:</strong> (sm&aring;skrattar) Jo visst &auml;r det bra med ambitioner Ahmed. Men jag tror inte att vi &auml;r d&auml;r riktigt &auml;n. Du vet det h&auml;r med spr&aring;ket, kunderna m&aring;ste ju k&auml;nna sig trygga med att vi f&ouml;rst&aring;r dem. Och de ska f&ouml;rst&aring; oss. Det f&aring;r bli n&auml;r du har lite mer koll p&aring; svenskan.</p><p><i>Chefen klappar Ahmed p&aring; axeln och g&aring;r vidare. Ahmed drar en stor suck.</i></p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "Vad hände?",
+    "body": "<p>Det vi s&aring;g i filmen grundar sig i f&ouml;rdomar och n&aring;got som kallas f&ouml;r kognitiv &rdquo;bias&rdquo;.</p><p>Ahmed har en universitetsexamen i ekonomi. Han pratar bra svenska &auml;ven om den inte &auml;r helt flytande. Hans spr&aring;k beh&ouml;ver inte vara ett hinder i ett kundm&ouml;te, och om han blir inkluderad f&aring;r han chansen att utveckla sin svenska snabbare.</p><p>I st&auml;llet f&ouml;r att titta p&aring; Ahmeds kunskap och potential utg&aring;r chefen fr&aring;n sin bild av m&auml;nniskor som inte pratar flytande svenska. Chefens beslut om kundm&ouml;ten p&aring; flytande svenska kan vara byggda p&aring; f&ouml;rdomar och bias.</p>",
+    "_id": "6298dc7c6615b50cc996e400",
+    "_parentId": "6298dc7c6615b50cc996e1d0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc7c6615b50cc996e40e",
+    "_parentId": "6298dc7c6615b50cc996e1d0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Frågetecken.",
+      "large": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "col-2",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Fördomar och bias",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc7c6615b50cc996e42a",
+    "_parentId": "6298dc7c6615b50cc996e1dd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Två personer. ",
+      "large": "course/sv/assets/62a833fc68db890cc916bb30.png",
+      "small": "course/sv/assets/62a833fc68db890cc916bb30.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Personer med utländsk bakgrund",
+    "displayTitle": "Personer med utländsk bakgrund",
+    "body": "<p><span><span>Vet du hur stor del av Sveriges befolkning som hade utl&auml;ndsk bakgrund &aring;r 2020? </span></span></p>",
+    "_id": "6298dc7d6615b50cc996e438",
+    "_parentId": "6298dc7c6615b50cc996e1ea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Dra reglaget tills det visar den andel du tror har utländsk bakgrund.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 25,
+    "_correctAnswer": "25",
+    "_correctRange": {
+      "_bottom": 25,
+      "_top": 25
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p lang=\"sv\"><span><span><span style=\"color:black\">Du har r&auml;tt.</span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">26% av Sveriges befolkning hade en utl&auml;ndsk bakgrund 2021*. Att ha en brytning, som Ahmed, kan d&auml;rf&ouml;r till och med vara en f&ouml;rdel i kundm&ouml;ten.</span></span></span></p><p lang=\"sv\"><span><span>*Enligt SCB:s definition: utrikesf&ouml;dd eller har tv&aring; f&ouml;r&auml;ldrar som b&aring;da &auml;r f&ouml;dda i utlandet.</span></span></p>",
+      "_incorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Bra gissning men inte helt r&auml;tt.</span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">26% av Sveriges befolkning hade en utl&auml;ndsk bakgrund 2020*. Att ha en brytning, som Ahmed, kan till och med vara en styrka i kundm&ouml;ten.</span></span></span></p><p lang=\"sv\"><span><span>*Enligt SCB:s definition: utrikesf&ouml;dd eller har tv&aring; f&ouml;r&auml;ldrar som b&aring;da &auml;r f&ouml;dda i utlandet.</span></span></p>",
+        "notFinal": "<p><span><span><span style=\"color:black\">Bra gissning men inte helt r&auml;tt</span></span></span>.</p><p><span><span><span style=\"color:black\">F&ouml;rs&ouml;k igen.</span></span></span></p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p><span><span>Hur kan du g&ouml;ra f&ouml;r att inkludera andra? </span></span></p>",
+    "_id": "6298dc7d6615b50cc996e454",
+    "_parentId": "6298dc7c6615b50cc996e1f7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på bilderna för att få tips på hur du kan agera i olika situationer.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "En förtroligt möte och handskakning mellan två personer.",
+          "src": "course/sv/assets/62a1cb2c09df4f658cf2ab77.png"
+        },
+        "backTitle": "Uppmuntra andra!",
+        "backBody": "<p>Uppmuntra alla som vill komma till tals p&aring; ett m&ouml;te, till exempel genom att fr&aring;ga dem som inte brukar prata. Bjud in andra i samtalet och hj&auml;lp dem att v&aring;ga prata.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "En person i en grupp av människor. Hon ser nöjd och trygg ut.",
+          "src": "course/sv/assets/62a1cb9568db890cc916bac1.png"
+        },
+        "backTitle": "Var uppmärksam på dina fördomar!",
+        "backBody": "<ul><li>F&ouml;rs&ouml;k f&ouml;rst&aring; dina egna och andras f&ouml;rdomar, och vilka normer som finns.</li><li>Var nyfiken. Ta inte f&ouml;r givet att alla t&auml;nker som du.</li><li>Ta <strong>inga</strong> viktiga beslut n&auml;r du &auml;r f&ouml;r tr&ouml;tt, hungrig eller stressad &ndash; d&aring; &auml;r vi oftare mer f&ouml;rdomsfulla.</li><li>Utv&auml;rdera dina egna beslut. Har de gynnat eller missgynnat vissa personer?</li></ul>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Närbild på en fot som tar ett kliv.",
+          "src": "course/sv/assets/62b9bd94f9e24614b64862e4.jpg"
+        },
+        "backTitle": "Våga agera!",
+        "backBody": "<ul><li>S&auml;g till n&auml;r n&aring;got &auml;r fel. Ifr&aring;gas&auml;tt till exempel kommentarer och sk&auml;mt som inte k&auml;nns okej.&nbsp;</li><li>Ge positiv feedback till en kollega som agerat p&aring; ett inkluderande s&auml;tt.&nbsp;</li><li>Uppmuntra alla som vill komma till tals p&aring; ett m&ouml;te.&nbsp;</li><li>Lyssna aktivt n&auml;r andra pratar. &nbsp;</li><li>B&ouml;rja prata med n&aring;gon som du annars inte pratar med. &nbsp;</li><li>St&auml;ll nyfikna fr&aring;gor.&nbsp;</li><li>Kom med f&ouml;rslag p&aring; hur din arbetsplats kan bli mer inkluderande.</li><li>St&auml;ll krav p&aring; din arbetsgivare. S&auml;g vad du tycker om arbetsmilj&ouml;n vid personalm&ouml;ten eller i medarbetarsamtal.</li></ul>"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Vilket råd vill du ge?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc7d6615b50cc996e47e",
+    "_parentId": "6298dc7c6615b50cc996e211",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Ahmed i korridoren.",
+      "large": "course/sv/assets/62a6f3b868db890cc916bb09.png",
+      "small": "course/sv/assets/62a6f3b868db890cc916bb09.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Faktaruta ",
+    "displayTitle": "",
+    "body": "<p><strong>Namn:</strong> Helena Eriksson</p><p><strong>&Aring;lder:</strong> 49</p><p><strong>Jobb:</strong> S&auml;ljare i butik</p><p><strong>Familj:</strong> Gift med Leif, tv&aring; barn fr&aring;n tidigare &auml;ktenskap och ett gemensamt yngre barn</p><p><strong>Bor:</strong> Radhus</p><p><strong>Annat om mig:</strong> Gillar att pyssla i tr&auml;dg&aring;rden och l&auml;ngtar efter barnbarn</p>",
+    "_id": "6298dc896615b50cc996eadc",
+    "_parentId": "6298dc886615b50cc996e86e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Faktaruta (EV INTE SYNLIG RUBRIK)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc896615b50cc996eaea",
+    "_parentId": "6298dc886615b50cc996e86e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Porträtt på Helena.",
+      "large": "course/sv/assets/62a305f009df4f658cf2ab8c.png",
+      "small": "course/sv/assets/62a305f009df4f658cf2ab8c.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Det blir bättre om alla får vara med (FILM)",
+    "displayTitle": "Det blir bättre om alla får vara med",
+    "body": "<p><span class=\"screen-reader-text\">Den h&auml;r filmen har ingen syntolkning. Efter filmen finns textalternativ f&ouml;r dig som f&ouml;redrar att l&auml;sa.</span></p>",
+    "_id": "6298dc896615b50cc996eaf8",
+    "_parentId": "6298dc886615b50cc996e87b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på playknappen för att starta filmen. Om du vill ta del av textalternativet klicka på \"Läs istället för att titta\"-knappen.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725200952/6019e10144",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Läs i stället för att titta",
+      "inlineTranscriptCloseButton": "Stäng",
+      "inlineTranscriptBody": "<p><i>Helena st&aring;r och v&auml;ntar p&aring; v&auml;g ut p&aring; lunch. En kollega ansluter.</i></p><p><strong>Helena: </strong>Hej! Ja men d&aring; ska vi bara v&auml;nta in de andra &ndash; s&aring; kul att ni vill med och fira!</p><p><strong>Kollega</strong> <i>(i &ouml;vre medel&aring;lder)</i>: Ja men s&aring;klart! Inte varje dag vi f&aring;r fira med 50-&aring;rs-lunch ju&ndash; fint att du bjuder med oss alla!</p><p><strong>Helena: </strong>Ja det &auml;r ju r&auml;tt stort med 50 &auml;nd&aring;&hellip; &Aring;h, d&auml;r borta kommer John och Anna ocks&aring; &ndash; ska vi g&aring; d&aring;? <i>(samlar ihop jacka och v&auml;ska och g&ouml;r sig redo att &ouml;ppna d&ouml;rren)</i></p><p><strong>Kollega:</strong> <i>(f&ouml;rv&aring;nat) </i>Jaha, men ska inte Juan och Sun Yi med? De skulle bara packa ihop det sista inne p&aring; lagret, s&aring; de &auml;r ocks&aring; snart klara att...</p><p><strong>Helena:</strong> <i>(ser lite obekv&auml;m ut) </i>Nej, jag t&auml;nkte &hellip; allts&aring;, jag har inte fr&aring;gat dem. De pratar ju bara engelska&hellip;</p><p><i>Kollegan ser tveksam ut s&aring; Helena forts&auml;tter f&ouml;rklara sig:</i></p><p><strong>Helena:</strong> <i>(l&aring;ter lite tv&auml;r)</i> Ja, men de &auml;r ju faktiskt yngre &auml;n mina barn. Det k&auml;nns bara konstigt att bjuda med dem &ndash; de tycker v&auml;l inte att det &auml;r kul att umg&aring;s med mig som &auml;r s&aring; gammal?</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "Vad hände?",
+    "body": "<p>Filmen visar normer p&aring; olika s&auml;tt. Helena verkar helst vilja umg&aring;s med de som pratar samma spr&aring;k &ndash; normen &auml;r svenska. Hon verkar ocks&aring; tro att de yngre inte vill umg&aring;s med henne som snart ska fylla 50 &ndash; normen &auml;r att umg&aring;s med j&auml;mngamla.</p><p>Normen &auml;r den mest f&ouml;rekommande profilen eller bakgrunden n&auml;r det g&auml;ller till exempel k&ouml;n, &aring;lder eller etnicitet. Om man inte ser normerna tillh&ouml;r man sannolikt normen.</p><p>&nbsp;</p>",
+    "_id": "6298dc896615b50cc996eb06",
+    "_parentId": "6298dc886615b50cc996e888",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Vad hände?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc896615b50cc996eb14",
+    "_parentId": "6298dc886615b50cc996e888",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Frågetecken.",
+      "large": "course/sv/assets/62b9aa34d4132512c4acc319.png",
+      "small": "course/sv/assets/62b9aa34d4132512c4acc319.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Är normer bra eller dåligt?",
+    "displayTitle": "Är normer bra eller dåligt?",
+    "body": "<p>Normer kan vara b&aring;de positivt och negativt.</p><p>Normer handlar om att vi &auml;r vana vid att saker &auml;r p&aring; ett visst s&auml;tt. De finns &ouml;verallt och de beh&ouml;vs i v&aring;rt samh&auml;lle. Vi kan s&auml;ga att de fungerar som en sorts mall att agera efter, oskrivna regler som vi f&ouml;ljer. Ett enkelt exempel &auml;r v&aring;rt s&auml;tt att k&ouml;a.</p><p>Men normer kan ocks&aring; handla om hur vi lever, ser ut eller uttrycker oss. Normer m&auml;rks n&auml;r de bryts, och det slukar energi att k&auml;nna sig annorlunda, att anpassa sig och f&ouml;rs&ouml;ka att inte sticka ut. Det &auml;r viktigt att vi till&aring;ter varandra att bryta mot normen utan att ifr&aring;gas&auml;tta.</p>",
+    "_id": "6298dc896615b50cc996eb22",
+    "_parentId": "6298dc886615b50cc996e895",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Är normer bra eller dåligt?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc896615b50cc996eb30",
+    "_parentId": "6298dc886615b50cc996e895",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "En tumme upp och en tumme ner.",
+      "large": "course/sv/assets/62a8347468db890cc916bb32.png",
+      "small": "course/sv/assets/62a8347468db890cc916bb32.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "När normen blir skadlig",
+    "displayTitle": "När normen blir skadlig",
+    "body": "<p lang=\"sv\">Personer som inte passar in i normen blir oftare utanf&ouml;r. Det kan ocks&aring; leda till diskriminering, som p&aring; arbetsplatsen &auml;r f&ouml;rbjudet enligt lag. Arbetsgivare kan straffas om en person behandlats illa utifr&aring;n n&aring;gon av de sju diskrimineringsgrunderna:</p><ul><li lang=\"sv\">K&ouml;n</li><li lang=\"sv\">K&ouml;ns&ouml;verskridande identitet eller k&ouml;nsuttryck&nbsp;</li><li lang=\"sv\">Etnicitet</li><li lang=\"sv\">Religion eller tro</li><li lang=\"sv\">Funktionsneds&auml;ttning</li><li lang=\"sv\">Sexuell l&auml;ggning</li><li lang=\"sv\">&Aring;lder</li></ul><p>Om du k&auml;nner att du kan ha blivit diskriminerad kan du prata med din chef, HR eller facket. Beh&ouml;ver du mer hj&auml;lp finns det n&aring;gra anv&auml;ndbara l&auml;nkar sist i den h&auml;r kursen.</p>",
+    "_id": "6298dc896615b50cc996eb3e",
+    "_parentId": "6298dc886615b50cc996e8a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "När normen blir destruktiv",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc896615b50cc996eb4c",
+    "_parentId": "62a6f904041c940c9a419459",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Två personer sitter på en stentrappa. Den ena håller om den andra i en skyddande gest. Hen har en ragnbågsflagga på handen. ",
+      "large": "course/sv/assets/62b9bbabf9e24614b64862e2.jpg",
+      "small": "course/sv/assets/62b9bbabf9e24614b64862e2.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Hur tror du att det vore om…",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dc896615b50cc996eb76",
+    "_parentId": "629f10db0a8265658685a7a3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Frågetecken.",
+      "large": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/sv/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p lang=\"sv\">Hur kan vi g&ouml;ra f&ouml;r att bryta normer?</p><p lang=\"sv\">Vi kan bland annat l&auml;ra oss att undvika de allra vanligaste fallgroparna inom spr&aring;k och jargong.</p>",
+    "_id": "6298dc896615b50cc996eb84",
+    "_parentId": "6298dc886615b50cc996e8c9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klicka på knapparna med rubriker för att läsa mer.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Kvinnlig läkare eller läkare?",
+        "body": "<p lang=\"sv\">Ofta s&auml;ger vi &rdquo;kvinnlig l&auml;kare&rdquo; &ndash; medan manliga l&auml;kare kallas f&ouml;r enbart &rdquo;l&auml;kare&rdquo;. P&aring; s&aring; s&auml;tt markerar vi att mannen &auml;r norm och att kvinnan avviker fr&aring;n normen. Trots att det i Sverige faktiskt &auml;r fler kvinnor &auml;n m&auml;n som jobbar som l&auml;kare!</p><p lang=\"sv\">Det finns m&aring;nga exempel p&aring; det h&auml;r fenomenet. Till exempel fotboll/damfotboll eller statsminister/kvinnlig statsminister. Du kan s&auml;kert komma p&aring; fler.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Du som är så ung!",
+        "body": "<p lang=\"sv\">En s&aring;dan h&auml;r kommentar kan verka harml&ouml;s, men kan vara jobbig f&ouml;r den som f&aring;r h&ouml;ra den hela tiden.</p><p lang=\"sv\">Den markerar att man avviker genom sin ungdom och antyder att man &auml;r oerfaren.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Har du flickvän?",
+        "body": "<p>Den h&auml;r typen av fr&aring;ga kan ocks&aring; verka harml&ouml;s. Men den utg&aring;r fr&aring;n heteronormen som l&aring;ngt ifr&aring;n alla k&auml;nner igen sig i.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Hudfärgat plåster",
+        "body": "<p lang=\"sv\">Vad &auml;r egentligen &rdquo;hudf&auml;rg&rdquo;?</p><p lang=\"sv\">N&auml;r vi kallar beigef&auml;rgade pl&aring;ster f&ouml;r hudf&auml;rgade f&ouml;rst&auml;rker vi den norm som s&auml;ger att m&ouml;rk hy &auml;r avvikande fr&aring;n normen.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Nu är du snart klar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6298dce09808dc658c6f8ee3",
+    "_parentId": "6298dce09808dc658c6f8ec6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Grodperspektiv på en grupp av leende människor som alla tittar vänligt på betraktaren.",
+      "large": "course/sv/assets/62b9b625c0440812be4ee0d7.jpg",
+      "small": "course/sv/assets/62b9b625c0440812be4ee0d7.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Hit kan du vända dig",
+    "displayTitle": "Hit kan du vända dig",
+    "body": "<p>Om du k&auml;nner att du kan ha blivit diskriminerad kan du prata med din chef, HR eller facket. Eller v&auml;nda dig till n&aring;gon organisation som kan st&ouml;dja dig.</p><p>H&auml;r hittar du l&auml;nkar till organisationer och myndigheter som ansvarar f&ouml;r antidiskriminering.</p><p>L&auml;nk:<br /><a href=\"https://mittliv.com/se/e-learning\" target=\"_blank\">Mitt Livs hemsida / r&aring;d om diskriminering (&ouml;ppnas i nytt f&ouml;nster)</a></p>",
+    "_id": "6298dcf56615b50cc996ed17",
+    "_parentId": "6298dcf56615b50cc996ed08",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6299c1450a826565868368b1",
+    "_parentId": "62a6df190a826565868da46a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Symboler för mångfald och inkludering i utbildningen: regnbåge och hjärta.",
+      "large": "course/sv/assets/62a83a0168db890cc916bb34.png",
+      "small": "course/sv/assets/62a83a0168db890cc916bb34.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Du kan göra skillnad!",
+    "displayTitle": "Du kan göra skillnad!",
+    "body": "<p>Det &auml;r viktigt att vi l&auml;r oss att se, acceptera och uppskatta varandras olikheter. Genom att vara nyfiken och inkluderande kan du g&ouml;ra stor skillnad b&aring;de i din egen och andras arbetsvardag.</p><p>I de kommande kapitlen ska du f&aring; tr&auml;ffa tre personer och l&auml;ra dig mer om m&aring;ngfald och inkludering. Lycka till!</p>",
+    "_id": "6299e2ae9808dc658c706305",
+    "_parentId": "6299e2ae9808dc658c7062f6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Du kan göra skillnad!",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6299e2ae9808dc658c706313",
+    "_parentId": "6299e2ae9808dc658c7062f6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "En handskakning.",
+      "large": "course/sv/assets/62ac94955816971143c1c080.png",
+      "small": "course/sv/assets/62ac94955816971143c1c080.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "branching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Hur hade du gjort?",
+    "displayTitle": "Hur hade du gjort?",
+    "body": "<p>Alicia &auml;r din kollega och ni har kommit varandra ganska n&auml;ra under den senaste tiden. P&aring; en rast s&auml;ger hon i f&ouml;rtroende till dig:</p><blockquote><p>N&auml;r jag ber&auml;ttar att jag har barn med en annan kvinna ser m&auml;nniskor ofta s&aring; f&ouml;rv&aring;nade ut.</p><p>Jag kan liksom aldrig veta hur en person ska reagera, s&aring; jag &auml;r alltid p&aring; sp&auml;nn n&auml;r jag pratar med nya m&auml;nniskor. Om jag till exempel pratar med en ny kollega, ska jag v&aring;ga ber&auml;tta? Och n&auml;r? T&auml;nk om hen reagerar konstigt och sen m&aring;ste vi jobba ihop.</p></blockquote>",
+    "_id": "6299fad09808dc658c709910",
+    "_parentId": "6298dc726615b50cc996db4a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Hur skulle du svara på Alicias fundering? Välj svar genom att klicka på knapparna.",
+    "scoreLabel": "",
+    "waitingOnMediaText": "",
+    "_allowUserToControlMedia": true,
+    "_isFullLayoutMode": true,
+    "_shouldShowNarrativeAboveMedia": false,
+    "retryLastOptionLabel": "Prova ett annat alternativ",
+    "resetLabel": "Börja om från början",
+    "questionLabel": "Fråga",
+    "youAnsweredWithLabel": "Ditt svar",
+    "breakdownTitleLabel": "Bryt ner dina svar",
+    "_items": [
+      {
+        "_id": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "_parentId": "",
+        "text": "Item Text",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [
+          {
+            "_id": "c0525e60-09e1-ee06-620c-e4ef6079f03a",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "a) Vad ledsen jag blir för din skull. Det du berättar är ju att du har barn. Du blir ju både ifrågasatt som förälder och för att du är sambo med en kvinna. Har du upplevt något sådant här?<br><br>Du behöver bara berätta om du vill!",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "1/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>R&auml;tt t&auml;nkt!</p><p>H&auml;r bekr&auml;ftade du Alicias k&auml;nslor av oro och stress att inte veta hur n&aring;gon ska reagera. Du &ouml;ppnar ocks&aring; upp f&ouml;r att Alicia f&aring;r dela med sig om det &auml;r n&aring;got p&aring; er arbetsplats som hon vill prata mer om.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "b21caff7-e4e0-9c5d-45a2-0bfd4564b2b7",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "b) Vad tråkigt att höra. Men du ska veta att det här med att du har barn med en annan kvinna, du behöver inte oroa dig för att det är ett problem att prata om det här.",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "2/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Har du t&auml;nkt p&aring; det h&auml;r?</p><p>Om du sj&auml;lv &auml;r hetero och tillh&ouml;r normen kanske du inte vet hur andra p&aring; din arbetsplats t&auml;nker och tycker om ni inte har pratat om det. Att s&auml;ga att Alicia inte beh&ouml;ver oroa sig &auml;r ocks&aring; att f&ouml;rminska hennes upplevda stress och oro</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+            }
+          },
+          {
+            "_id": "a5717d0c-52b9-7e1e-d7e8-84fe6f266e09",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "c) Vad ledsen jag blir för din skull. Och samtidigt nyfiken, jag visste inte att du hade barn med en annan kvinna.<br><br>Jag måste bara få fråga, vilken är den vanligaste kommentaren du möter?",
+            "_isEditorItemSelected": true,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "3/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p><strong>Har du t&auml;nkt p&aring; det h&auml;r?</strong></p><p>Nyfikenhet &auml;r ofta bra. Men var f&ouml;rsiktig med vad du s&auml;ger n&auml;r, och f&ouml;rst&aring;s hur. Alicia har precis &ouml;ppnat upp om detta och dessutom varit tydlig med att hon &auml;r obekv&auml;m med &auml;mnet just nu.</p><p>Kanske finns det andra s&auml;tt att bem&ouml;ta det hon s&auml;ger och d&auml;r du fortfarande bjuder in henne att forts&auml;tta prata med dig om hon vill?</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+            }
+          }
+        ],
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": true,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": "<p>Vad svarar du?</p>"
+        },
+        "_feedback": {
+          "text": ""
+        }
+      },
+      {
+        "_id": "c0525e60-09e1-ee06-620c-e4ef6079f03a",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "a) Vad ledsen jag blir för din skull. Det du berättar är ju att du har barn. Du blir ju både ifrågasatt som förälder och för att du är sambo med en kvinna. Har du upplevt något sådant här?<br><br>Du behöver bara berätta om du vill!",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "1/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>R&auml;tt t&auml;nkt!</p><p>H&auml;r bekr&auml;ftade du Alicias k&auml;nslor av oro och stress att inte veta hur n&aring;gon ska reagera. Du &ouml;ppnar ocks&aring; upp f&ouml;r att Alicia f&aring;r dela med sig om det &auml;r n&aring;got p&aring; er arbetsplats som hon vill prata mer om.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+        }
+      },
+      {
+        "_id": "b21caff7-e4e0-9c5d-45a2-0bfd4564b2b7",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "b) Vad tråkigt att höra. Men du ska veta att det här med att du har barn med en annan kvinna, du behöver inte oroa dig för att det är ett problem att prata om det här.",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "2/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Har du t&auml;nkt p&aring; det h&auml;r?</p><p>Om du sj&auml;lv &auml;r hetero och tillh&ouml;r normen kanske du inte vet hur andra p&aring; din arbetsplats t&auml;nker och tycker om ni inte har pratat om det. Att s&auml;ga att Alicia inte beh&ouml;ver oroa sig &auml;r ocks&aring; att f&ouml;rminska hennes upplevda stress och oro</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+        }
+      },
+      {
+        "_id": "a5717d0c-52b9-7e1e-d7e8-84fe6f266e09",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "c) Vad ledsen jag blir för din skull. Och samtidigt nyfiken, jag visste inte att du hade barn med en annan kvinna.<br><br>Jag måste bara få fråga, vilken är den vanligaste kommentaren du möter?",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "3/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Har du t&auml;nkt p&aring; det h&auml;r?</p><p>Nyfikenhet &auml;r ofta bra. Men var f&ouml;rsiktig med vad du s&auml;ger n&auml;r, och f&ouml;rst&aring;s hur. Alicia har precis &ouml;ppnat upp om detta och dessutom varit tydlig med att hon &auml;r obekv&auml;m med &auml;mnet just nu.</p><p>Kanske finns det andra s&auml;tt att bem&ouml;ta det hon s&auml;ger och d&auml;r du fortfarande bjuder in henne att forts&auml;tta prata med dig om hon vill?</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+        }
+      }
+    ],
+    "_feedback": []
+  },
+  {
+    "_component": "branching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Hur hade du gjort?",
+    "displayTitle": "Hur hade du gjort?",
+    "body": "<p>Det &auml;r m&aring;ndag morgon och du g&aring;r mot kaffemaskinen f&ouml;r att h&auml;mta dagens f&ouml;rsta kopp. N&aring;gra kollegor &auml;r redan d&auml;r. De verkar vara mitt i ett livligt samtal om helgens stora handbollsmatch. Du vet att Ahmed &auml;r ett stort handbollsfan och hade biljetter till helgens match. Trots detta m&auml;rker du att han &auml;r tyst i samtalet. Du anar att han egentligen vill vara med och prata.</p>",
+    "_id": "629a07709808dc658c70b494",
+    "_parentId": "629a06070a82656586841c50",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Hur hade du gjort för att stödja Ahmed? Välj genom att klicka på knapparna.",
+    "scoreLabel": "Score",
+    "waitingOnMediaText": "",
+    "_allowUserToControlMedia": true,
+    "_isFullLayoutMode": true,
+    "_shouldShowNarrativeAboveMedia": false,
+    "retryLastOptionLabel": "Prova ett annat alternativ",
+    "resetLabel": "Börja om från början",
+    "questionLabel": "Fråga",
+    "youAnsweredWithLabel": "Ditt svar",
+    "breakdownTitleLabel": "Bryt ner dina svar",
+    "_items": [
+      {
+        "_id": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "_parentId": "",
+        "text": "",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [
+          {
+            "_id": "4e405a59-ade7-5278-b811-7898667ded69",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "a) Jag säger: ”Pratar ni om handbollsmatchen?<br>Ahmed, du var väl där? Hur var det?",
+            "_isEditorItemSelected": true,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "1/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p><strong>Bra agerat!</strong></p><p>Du vet att Ahmed hade biljetter till matchen. S&aring; att fr&aring;ga honom direkt &auml;r kanske det mest effektiva s&auml;tt att f&aring; in just honom i samtalet. Ett annat s&auml;tt skulle kunna vara att st&auml;lla fr&aring;gan bredare och fr&aring;ga om vilka som var p&aring; matchen.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "9229e9e6-d406-4610-b679-773c47421aaf",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "b) Jag börjar prata med Ahmed så att han inte ska känna sig ensam.",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "2/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Kan du hj&auml;lpa Ahmed?</p><p>H&auml;r visar du att du ser att Ahmed k&auml;nner sig utanf&ouml;r. Men risken finns att han k&auml;nner sig &auml;nnu mer utanf&ouml;r d&aring; han helst hade velat vara med och pratat om handboll. Fundera om det finns n&aring;got annat s&auml;tt att f&aring; in Ahmed i samtalet.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "d9c604c5-6377-5c0a-e6e3-89b18c7c78dc",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "c) Jag säger: ”Pratar ni om handbollsmatchen?<br>Var det någon av er som var där?”",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "3/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Inte alls dumt t&auml;nkt!</p><p>N&auml;r du st&auml;ller fr&aring;gan &ouml;ppet bjuder du in alla att svara. Men i det h&auml;r fallet vet du att Ahmed var p&aring; matchen och du tror att han vill f&aring; hj&auml;lp att komma in i samtalet. S&aring; alternativet att fr&aring;ga honom direkt om hur det var &auml;r ocks&aring; bra!</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          }
+        ],
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": true,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": "<p>Vad g&ouml;r du?</p>"
+        },
+        "_feedback": {
+          "text": ""
+        }
+      },
+      {
+        "_id": "4e405a59-ade7-5278-b811-7898667ded69",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "a) Jag säger: ”Pratar ni om handbollsmatchen?<br>Ahmed, du var väl där? Hur var det?",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "1/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Bra agerat!</p><p>Du vet att Ahmed hade biljetter till matchen. S&aring; att fr&aring;ga honom direkt &auml;r kanske det mest effektiva s&auml;tt att f&aring; in just honom i samtalet. Ett annat s&auml;tt skulle kunna vara att st&auml;lla fr&aring;gan bredare och fr&aring;ga om vilka som var p&aring; matchen.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+        }
+      },
+      {
+        "_id": "9229e9e6-d406-4610-b679-773c47421aaf",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "b) Jag börjar prata med Ahmed så att han inte ska känna sig ensam.",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "2/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Kan du hj&auml;lpa Ahmed?</p><p>H&auml;r visar du att du ser att Ahmed k&auml;nner sig utanf&ouml;r. Men risken finns att han k&auml;nner sig &auml;nnu mer utanf&ouml;r d&aring; han helst hade velat vara med och pratat om handboll. Fundera om det finns n&aring;got annat s&auml;tt att f&aring; in Ahmed i samtalet.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+        }
+      },
+      {
+        "_id": "d9c604c5-6377-5c0a-e6e3-89b18c7c78dc",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "c) Jag säger: ”Pratar ni om handbollsmatchen?<br>Var det någon av er som var där?”",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "3/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Inte alls dumt t&auml;nkt!</p><p>N&auml;r du st&auml;ller fr&aring;gan &ouml;ppet bjuder du in alla att svara. Men i det h&auml;r fallet vet du att Ahmed var p&aring; matchen och du tror att han vill f&aring; hj&auml;lp att komma in i samtalet. S&aring; alternativet att fr&aring;ga honom direkt om hur det var &auml;r ocks&aring; bra!</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+        }
+      }
+    ],
+    "_feedback": []
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Nu är du snart klar",
+    "displayTitle": "Nu är du snart klar",
+    "body": "<p>Tack f&ouml;r att du tog dig tid att g&aring; den h&auml;r introduktionsutbildningen om m&aring;ngfald och inkludering och om varf&ouml;r det &auml;r viktigt p&aring; arbetsplatsen. Vi har g&aring;tt igenom exempel p&aring; vad m&aring;ngfald och inkludering p&aring; jobbet &auml;r och hur det kan se ut n&auml;r det g&aring;r fel. Vi har sett vad riskerna och vinsterna med m&aring;ngfald och inkludering kan vara b&aring;de f&ouml;r individen, gruppen och verksamheten.</p><p>Nu vet vi att alla m&aring;r b&auml;ttre n&auml;r m&aring;ngfalden &auml;r h&ouml;g och n&auml;r vi inkluderar varandra. D&auml;rf&ouml;r har vi ocks&aring; l&auml;rt oss att n&aring;gra verktyg f&ouml;r att &ouml;ka m&aring;ngfalden och inkluderingen p&aring; arbetsplatsen. Sist men inte minst: M&aring;ngfald och inkludering &auml;r allas ansvar, b&aring;de ditt och mitt.</p><p>Lycka till!</p>",
+    "_id": "629efc1d0a8265658685475c",
+    "_parentId": "629efc186615b50cc99979fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Gå vidare",
+    "displayTitle": "",
+    "body": "",
+    "_id": "629f07db9808dc658c71f250",
+    "_parentId": "629f079f6615b50cc999b366",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Du är nu klar med detta kapitel och kan gå vidare till nästa.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Gå vidare",
+    "displayTitle": "",
+    "body": "",
+    "_id": "629f0e856615b50cc999d77a",
+    "_parentId": "629f0e6a041c940c9a38b0b4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Du är nu klar med detta kapitel och kan gå vidare till nästa.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Vilket råd vill du ge?",
+    "displayTitle": "Vilket råd vill du ge?",
+    "body": "<p>Lite senare samma dag passerar Ahmed dig i korridoren och stannar f&ouml;rsiktigt till n&auml;r ni m&ouml;ts. Han ser lite os&auml;ker ut n&auml;r han s&auml;ger:</p><blockquote><p>Du &auml;r s&aring; bra p&aring; att f&aring; med folk i samtalet. Hur g&ouml;r du? Och hur kan jag g&ouml;ra f&ouml;r att komma med inspel. Det &auml;r ju s&aring; sv&aring;rt.</p></blockquote><p>Vilket av f&ouml;ljande r&aring;d vill du skicka med Ahmed?</p>",
+    "_id": "629f0f3a0a82656586859f84",
+    "_parentId": "6298dc7c6615b50cc996e211",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Välj ett av alternativen nedan och klicka på Svara-knappen.",
+    "_items": [
+      {
+        "text": "Haka på något som någon säger eller ställ en nyfiken fråga.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Räcka upp handen funkar alltid. Det måste ju folk bara respektera.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Ju högre röst, desto större chans att andra lyssnar.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Bra t&auml;nkt!</p><p>Att haka p&aring; n&aring;got som n&aring;gon s&auml;ger eller st&auml;lla en nyfiken fr&aring;ga &auml;r bra s&auml;tt att ta sig in i ett samtal. Och kom ih&aring;g att det alltid &auml;r b&auml;ttre att fr&aring;ga &auml;n att anta n&aring;got. Ofta k&auml;nner vi inte varandra s&aring; bra som vi tror.</p>",
+      "_incorrect": {
+        "final": "<p>Nja, kanske inte.</p><p>D&aring; &auml;r det nog trots allt b&auml;ttre att f&ouml;rs&ouml;ka ta sig in i samtalet p&aring; n&aring;got annat s&auml;tt. Vad tror du om att haka p&aring; n&aring;got som n&aring;gon annan s&auml;ger, eller kanske st&auml;lla en nyfiken fr&aring;ga?</p>",
+        "notFinal": "<p>Nja, kanske inte.</p><p>D&aring; &auml;r det nog trots allt b&auml;ttre att f&ouml;rs&ouml;ka ta sig in i samtalet p&aring; n&aring;got annat s&auml;tt. Vad tror du om att haka p&aring; n&aring;got som n&aring;gon annan s&auml;ger, eller kanske st&auml;lla en nyfiken fr&aring;ga?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Delvis r&auml;tt.</p><p>Att haka p&aring; n&aring;got som n&aring;gon s&auml;ger eller st&auml;lla en nyfiken fr&aring;ga &auml;r bra s&auml;tt att ta sig in i ett samtal. Och kom ih&aring;g att det alltid &auml;r b&auml;ttre att fr&aring;ga &auml;n att anta n&aring;got. Ofta k&auml;nner vi inte varandra s&aring; bra som vi tror.</p>",
+        "notFinal": "<p>Delvis r&auml;tt.</p><p>F&ouml;rs&ouml;k igen.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Hur tror du att det vore om…",
+    "displayTitle": "Hur tror du att det vore om…",
+    "body": "<p lang=\"sv\">Nu ska du f&aring; fundera lite.</p><p lang=\"sv\">Du kommer att se olika forts&auml;ttningar p&aring; fr&aring;gan: Tror du att du skulle bli behandlad annorlunda p&aring; ditt jobb om du&hellip;?</p>",
+    "_id": "629f10e10a8265658685a7b6",
+    "_parentId": "629f10db0a8265658685a7a3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Välj ett eller flera av alternativen nedan som du tror eller tycker stämmer och klicka på Svara-knappen.",
+    "_items": [
+      {
+        "text": "… hade en annan utbildningsbakgrund?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… vore väldigt ung eller nära pensionsåldern?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... hade en annan etnisk bakgrund än majoriteten?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… vore homosexuell eller transperson?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… vore ny på arbetsplatsen?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… vore praktiserande religiös?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… hade jobbat länge på samma arbetsplats?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… tillhörde det motsatta könet? ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… hade en hörselnedsättning?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 999,
+    "_feedback": {
+      "title": "",
+      "correct": "<p lang=\"sv\"><span><span><span style=\"color:black\">Tack f&ouml;r dina svar! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Det &auml;r nyttigt att f&ouml;rs&ouml;ka s&auml;tta sig in i andras situation. Det g&ouml;r att vi f&ouml;rst&aring;r varandra och oss sj&auml;lva b&auml;ttre &ndash; och vi blir duktigare p&aring; att inkludera och ta hand om varandra p&aring; arbetsplatsen. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Du kan s&auml;kert t&auml;nka ut fler situationer d&auml;r du tror att du skulle bli behandlad annorlunda. Hur tror du att det skulle k&auml;nnas?</span></span></span></p>",
+      "_incorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Tack f&ouml;r dina svar! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Det &auml;r nyttigt att f&ouml;rs&ouml;ka s&auml;tta sig in i andras situation. Det g&ouml;r att vi f&ouml;rst&aring;r varandra och oss sj&auml;lva b&auml;ttre &ndash; och vi blir duktigare p&aring; att inkludera och ta hand om varandra p&aring; arbetsplatsen. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Du kan s&auml;kert t&auml;nka ut fler situationer d&auml;r du tror att du skulle bli behandlad annorlunda. Hur tror du att det skulle k&auml;nnas?</span></span></span></p>",
+        "notFinal": "<p lang=\"sv\"><span><span><span style=\"color:black\">Tack f&ouml;r dina svar! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Det &auml;r nyttigt att f&ouml;rs&ouml;ka s&auml;tta sig in i andras situation. Det g&ouml;r att vi f&ouml;rst&aring;r varandra och oss sj&auml;lva b&auml;ttre &ndash; och vi blir duktigare p&aring; att inkludera och ta hand om varandra p&aring; arbetsplatsen. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Du kan s&auml;kert t&auml;nka ut fler situationer d&auml;r du tror att du skulle bli behandlad annorlunda. Hur tror du att det skulle k&auml;nnas?</span></span></span></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Tack f&ouml;r dina svar! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Det &auml;r nyttigt att f&ouml;rs&ouml;ka s&auml;tta sig in i andras situation. Det g&ouml;r att vi f&ouml;rst&aring;r varandra och oss sj&auml;lva b&auml;ttre &ndash; och vi blir duktigare p&aring; att inkludera och ta hand om varandra p&aring; arbetsplatsen. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Du kan s&auml;kert t&auml;nka ut fler situationer d&auml;r du tror att du skulle bli behandlad annorlunda. Hur tror du att det skulle k&auml;nnas?</span></span></span></p>",
+        "notFinal": "<p lang=\"sv\"><span><span><span style=\"color:black\">Tack f&ouml;r dina svar! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Det &auml;r nyttigt att f&ouml;rs&ouml;ka s&auml;tta sig in i andras situation. Det g&ouml;r att vi f&ouml;rst&aring;r varandra och oss sj&auml;lva b&auml;ttre &ndash; och vi blir duktigare p&aring; att inkludera och ta hand om varandra p&aring; arbetsplatsen. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">Du kan s&auml;kert t&auml;nka ut fler situationer d&auml;r du tror att du skulle bli behandlad annorlunda. Hur tror du att det skulle k&auml;nnas?</span></span></span></p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Gå vidare",
+    "displayTitle": "",
+    "body": "",
+    "_id": "629f13206615b50cc999f48d",
+    "_parentId": "629f13150a8265658685ba69",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Du är nu klar med detta kapitel och kan gå vidare till nästa.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Gå vidare",
+    "displayTitle": "",
+    "body": "",
+    "_id": "629f16b16615b50cc99a0751",
+    "_parentId": "629f16956615b50cc99a062f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Du är nu klar med detta kapitel och kan gå vidare till nästa.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">Du &auml;r nu klar med hela utbildningen och kan st&auml;nga ner webbl&auml;sarf&ouml;nstret.</p>",
+    "_id": "62a036eb9808dc658c73e238",
+    "_parentId": "629f13810a8265658685bec6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070680a8265658687f6e8",
+    "_parentId": "62a070680a8265658687f6d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top ",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070746615b50cc99c37fb",
+    "_parentId": "62a070746615b50cc99c37eb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070829808dc658c74943a",
+    "_parentId": "62a070829808dc658c74942b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070900a8265658687f78b",
+    "_parentId": "62a070900a8265658687f77c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070aa0a8265658687f7d9",
+    "_parentId": "62a070aa0a8265658687f7ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a070f69808dc658c749524",
+    "_parentId": "62a070f69808dc658c749515",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Skrolla neråt!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/sv/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a07126041c940c9a3b4d38",
+    "_parentId": "628333ac0799d14fd8a6895a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/612f6b36ef6ecd4b79fcdc46.png",
+      "small": "course/sv/assets/612f6b36ef6ecd4b79fcdc46.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Gå vidare",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a075a80a82656586880b15",
+    "_parentId": "62a075a80a82656586880b06",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Du är nu klar med detta kapitel och kan gå vidare till nästa.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/sv/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Människor är som isberg",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a1ea4d6615b50cc99eed8a",
+    "_parentId": "6298dc726615b50cc996db23",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Ett isberg som är mycket större under vattenytan än ovanför.",
+      "large": "course/sv/assets/62b9c12cd4132512c4acc31b.jpg",
+      "small": "course/sv/assets/62b9c12cd4132512c4acc31b.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a31b756615b50cc9a02d0e",
+    "_parentId": "6298dc886615b50cc996e8c9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Pratbubbla med tre pusselbitar i varav en av bitarna ligger för sig själv, utanför mönstret.",
+      "large": "course/sv/assets/62b9af06f9e24614b64862df.png",
+      "small": "course/sv/assets/62b9af06f9e24614b64862df.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a31f92041c940c9a3f64c1",
+    "_parentId": "62a6e77d0a826565868dd1eb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Fikapaus i köket. Ahmed står med en kopp kaffe och är inte inkluderad i kollegornas samtal.",
+      "large": "course/sv/assets/62a6e74f68db890cc916bb07.jpg",
+      "small": "course/sv/assets/62a6e74f68db890cc916bb07.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Hur hade du gjort?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a6e1006615b50cc9a1facf",
+    "_parentId": "62a6e0f8041c940c9a4121ce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Alicia sitter i en soffa på kontoret och ser bekymrad ut. ",
+      "large": "course/sv/assets/62a6e9879ea72765869116af.jpg",
+      "small": "course/sv/assets/62a6e9879ea72765869116af.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "align-component",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Visste du att…?",
+    "displayTitle": "",
+    "body": "<p>Flera unders&ouml;kningar visar att de f&ouml;retag som lyckats b&auml;st med k&ouml;nsf&ouml;rdelningen i sina styrelser och ledningsgrupper har mycket b&auml;ttre l&ouml;nsamhet och oms&auml;ttning &auml;n de som inte &auml;r j&auml;mst&auml;llda. Det g&aring;r &auml;nnu b&auml;ttre f&ouml;r f&ouml;retag som har etnisk och kulturell balans och personer med funktionsneds&auml;ttning i styrelse och ledningsgrupp.</p>",
+    "_id": "62a706a49808dc658c7b5769",
+    "_parentId": "6298c8610a8265658682a88f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Fördomar och bias",
+    "displayTitle": "Fördomar och bias",
+    "body": "<p>F&ouml;rdomar &auml;r n&auml;r vi har en negativ attityd eller negativa k&auml;nslor och tankar mot en grupp och individer i den gruppen. Alla har f&ouml;rdomar, och oftast vet vi inte om det. Det vanligaste &auml;r att f&ouml;rdomarna bygger p&aring; grupptillh&ouml;righet, utseende eller n&aring;got annat som vi tycker skiljer &rdquo;oss&rdquo; fr&aring;n &rdquo;dem&rdquo;.</p><p>F&ouml;rdomar h&auml;nger ihop med bias. Bias &auml;r genv&auml;gar som v&aring;r hj&auml;rna tar f&ouml;r att f&ouml;renkla omv&auml;rlden och de &auml;r inte logiska. De st&auml;rker den bild vi redan har i st&auml;llet f&ouml;r att g&ouml;ra oss &ouml;ppna f&ouml;r att det skulle kunna vara p&aring; ett annat s&auml;tt.</p><p>Det finns &ouml;ver hundra olika typer av bias. Chefen i filmen p&aring;verkades av en bias som kallas horneffekten. Det &auml;r n&auml;r n&aring;gon tolkar n&aring;got som en brist, och antar att andra kompetenser ocks&aring; har brister &ndash; trots att det inte finns n&aring;got samband.</p><p>Andra vanliga bias &auml;r till exempel n&auml;r vi tror att n&aring;gon &auml;r bra f&ouml;r att den gillar samma musik som dig. Eller att vi tror att snygga m&auml;nniskor &auml;r b&aring;de smarta och snygga.</p>",
+    "_id": "62a832d29808dc658c7cfca8",
+    "_parentId": "62a832c90a826565868fe693",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b9b4c04cea8012c4eae1ea",
+    "_parentId": "6298dcf56615b50cc996ed08",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Hjärta.",
+      "large": "course/sv/assets/62ac927e5816971143c1c07e.png",
+      "small": "course/sv/assets/62ac927e5816971143c1c07e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  }
+]
